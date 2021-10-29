@@ -1,1 +1,1 @@
-Dockerfile-dynamic
+Dockerfile-static
